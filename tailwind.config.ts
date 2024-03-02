@@ -30,6 +30,13 @@ module.exports = {
           500: "#7857FF",
           600: "#4318FF",
         },
+        red: {
+          100: "#FEE9E8",
+          200: "#FFC7C5",
+          400: "#FFA5A2",
+          500: "#FF7C79",
+          600: "#FF4F4C",
+        },
         dark: {
           400: "#7986AC",
           500: "#606C80",
@@ -70,7 +77,7 @@ module.exports = {
       },
       backgroundImage: {
         "purple-gradient": "url('/assets/images/gradient-bg.svg')",
-        banner: "url('/assets/images/banner-bg.png')",
+        banner: "url('/assets/images/banner-2.png')",
       },
       borderRadius: {
         lg: "var(--radius)",
