@@ -28,6 +28,8 @@
 - TailwindCSS
 </div>
 
+## <a name="introduction">🤖 Introduction</a>
+Welcome to the Creatify, where you may explore a world of transformative image editing powered by in house AI model. This project possesses an array of tools designed to transform your image editing experience. From secure user access with authentication and authorization to powerful picture search and restoration, this hub is designed to meet all of your image processing requirements.
 ## <a name="features">🔋 Features</a>
 
 👉 **Authentication and Authorization**: Secure user access with registration, login, and route protection.
