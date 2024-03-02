@@ -6,7 +6,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
       <img src="https://preview.redd.it/5k70twmgpulc1.png?width=1920&format=png&auto=webp&s=1afceb67e5e9e28fc5596157028d4cefb1d78ec6" alt="Project Banner">
     </a>
   <br />
-  ## <a name="tech-stack">⚙️ Tech Stack</a>
 </div>
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
@@ -27,6 +26,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## <a name="features">🔋 Features</a>
 
 👉 **Authentication and Authorization**: Secure user access with registration, login, and route protection.
+
 👉 **Community Image Showcase**: Explore user transformations with easy navigation using pagination
 
 👉 **Advanced Image Search**: Find images by content or objects present inside the image quickly and accurately
