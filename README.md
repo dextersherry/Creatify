@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>
+    Welcome to the Marvels of Next.js!
+</h1>
+<h4>
+    Marvel at the magic of Next.js, where web development meets seamless efficiency, all thanks to the enchanted create-next-app.
+</h4>
 
 <div align="center">
     <br />
