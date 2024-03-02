@@ -1,6 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 <div align="center">
+    <br />
+    <a href="https://youtu.be/Ahwoks_dawU?feature=shared" target="_blank">
+      <img src="https://preview.redd.it/5k70twmgpulc1.png?width=1920&format=png&auto=webp&s=1afceb67e5e9e28fc5596157028d4cefb1d78ec6" alt="Project Banner">
+    </a>
+  <br />
   ## <a name="tech-stack">⚙️ Tech Stack</a>
 </div>
   <div>
